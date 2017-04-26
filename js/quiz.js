@@ -1,3 +1,5 @@
+//My Disney Quiz project
+
 var pos = 0, incorrect =0,test, test_status, question, choice, choices, choiceA, choiceB, choiceC, correct=0, name = 0; 
 //setting the up variables
 		
